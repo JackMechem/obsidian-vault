@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School Dashboard.md",
+                "file": "School/380/Midterm/Study Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "School Dashboard"
+              "title": "Study Guide"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School Dashboard.md",
+                "file": "School/380/Midterm/Study Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of School Dashboard"
+              "title": "Outline of Study Guide"
             }
           },
           {
@@ -229,8 +229,10 @@
   "active": "4aec10d7f13d7e70",
   "lastOpenFiles": [
     "School/380/Midterm/Practice Problems.md",
+    "media/C380TestPractice1.png",
+    "media/Pasted image 20260321204054.png",
     "School Dashboard.md",
-    "School/380/Midterm/C380TestPractice1.png",
+    "media",
     "School/380/Midterm/Study Guide.md",
     "School/380/Midterm/Untitled.base",
     "Untitled.base",
@@ -240,16 +242,15 @@
     "Midterm Study Guide.md",
     "School/380",
     "School",
-    "Pasted image 20260321204054.png",
-    "Pasted image 20260321135306.png",
+    "media/Pasted image 20260321135306.png",
     "style.css.md",
     "2026-03-21.md",
-    "Pasted image 20260321135521.png",
-    "Pasted image 20260321135506.png",
-    "Pasted image 20260321135447.png",
-    "Pasted image 20260321135355.png",
-    "Pasted image 20260321135344.png",
-    "Pasted image 20260321135333.png",
+    "media/Pasted image 20260321135521.png",
+    "media/Pasted image 20260321135506.png",
+    "media/Pasted image 20260321135447.png",
+    "media/Pasted image 20260321135355.png",
+    "media/Pasted image 20260321135344.png",
+    "media/Pasted image 20260321135333.png",
     "Welcome.md",
     "Test"
   ]
