@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#3c76c8",
+  "cssTheme": "Atom",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "inline-callout"
+  ],
+  "nativeMenus": false,
+  "textFontFamily": "",
+  "monospaceFontFamily": "Source Code Pro",
+  "showRibbon": true
+}
