@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Created": "datetime",
+    "Updated": "datetime",
+    "Parent MOC": "multitext",
+    "parentMoc": "text",
+    "parent": "text",
+    "lastModified": "datetime"
+  }
+}

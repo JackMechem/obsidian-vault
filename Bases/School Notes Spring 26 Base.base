@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("class-note")
+        - file.folder != "templates"
+    order:
+      - file.name
+      - tags
+      - Created
+    columnSize:
+      note.Created: 275
+  - type: table
+    name: COMP 380
+    filters:
+      and:
+        - file.hasLink("COMP 380 MOC")
+        - file.folder != "templates"
+        - '!file.hasTag("moc")'

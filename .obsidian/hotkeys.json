@@ -2,7 +2,8 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": " "
     }
@@ -13,6 +14,22 @@
         "Mod"
       ],
       "key": "`"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
     }
   ]
 }

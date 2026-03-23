@@ -1,7 +1,16 @@
-Mid exam is based on lecture slides, handouts, articles on Canvas, textbook chapters and Appendix 1. Lookup Canvas -> Modules -> Get started here -> Detailed Course schedule for reading.
+---
+tags:
+  - class-note
+created: 2026-03-21 12:08
+---
+> [!links]
+> [[COMP 380 MOC]]
+> [[Midterm Practice Problems]]
 
-> [!fit]
-> [[Practice Problems|Practice Problems]]
+
+# Study Guide
+
+Mid exam is based on lecture slides, handouts, articles on Canvas, textbook chapters and Appendix 1. Lookup Canvas -> Modules -> Get started here -> Detailed Course schedule for reading.
 
 ---
 

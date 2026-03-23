@@ -6,8 +6,9 @@
   "obsidian-linter",
   "heading-level-indent",
   "dataview",
-  "any-block",
   "mermaid-tools",
   "figma-embed",
-  "obsidian-git"
+  "obsidian-git",
+  "pretty-properties",
+  "templater-obsidian"
 ]
