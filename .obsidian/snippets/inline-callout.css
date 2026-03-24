@@ -12,6 +12,11 @@
 	width: 100%;
 }
 
+.callout[data-callout="answer"] {
+	--callout-icon: "lucide-square-check-big";
+    --callout-color: 80, 230, 80;
+}
+
 .callout[data-callout="fit"] {
 	--callout-icon: "lucide-info";
 	display: flex;

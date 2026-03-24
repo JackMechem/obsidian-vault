@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "445de7770f01e4c1",
+        "id": "ddee9356f14b75b3",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6ae3e1698a0b7a",
+            "id": "f11e4e1cf26d0c73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Home MOC.md",
+                "file": "cn256_IntegersAndDivision_2026-03-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Home MOC"
+              "title": "cn256_IntegersAndDivision_2026-03-24"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "a0d0b30fd9489df3",
         "type": "tabs",
-        "dimension": 61.694152923538226,
+        "dimension": 61.69415292353823,
         "children": [
           {
             "id": "0afffa2de7008e4e",
@@ -81,7 +81,7 @@
       {
         "id": "aaff5486e0d2d9b2",
         "type": "tabs",
-        "dimension": 38.30584707646177,
+        "dimension": 38.305847076461774,
         "children": [
           {
             "id": "340474774f9a19c1",
@@ -111,7 +111,6 @@
       {
         "id": "fa51dac2d6a59223",
         "type": "tabs",
-        "dimension": 68.04647785039941,
         "children": [
           {
             "id": "783806dba8d0c3ec",
@@ -119,32 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Home MOC.md",
-                "followCursor": false,
+                "file": "cn256_IntegersAndDivision_2026-03-24.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Home MOC"
-            }
-          },
-          {
-            "id": "0c6f90139cdc45d8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "COMP 380 MOC.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for COMP 380 MOC"
+              "title": "Outline of cn256_IntegersAndDivision_2026-03-24"
             }
           },
           {
@@ -153,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP 380 MOC.md",
+                "file": "cn256_IntegersAndDivision_2026-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from COMP 380 MOC"
+              "title": "Outgoing links from cn256_IntegersAndDivision_2026-03-24"
             }
           },
           {
@@ -204,17 +184,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e338a52396e9acec",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "COMP 256 Midterm Studyguide.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for COMP 256 Midterm Studyguide"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
-        "id": "35a0f13fd15a22ad",
+        "id": "7bd16f4434266d2f",
         "type": "tabs",
-        "dimension": 31.95352214960058,
         "children": [
           {
-            "id": "4b30455ebc3e64c9",
+            "id": "1b6ae3e1698a0b7a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -222,12 +213,32 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0c6f90139cdc45d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cn256_IntegersAndDivision_2026-03-24.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cn256_IntegersAndDivision_2026-03-24"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,18 +257,36 @@
   },
   "active": "93f80d4712b11b46",
   "lastOpenFiles": [
+    "Pasted image 20260323202240.png",
+    "Pasted image 20260323202321.png",
+    "cn256_IntegersAndDivision_2026-03-24.md",
+    "COMP 256 MOC.md",
+    "Pasted image 20260324120509.png",
+    "Pasted image 20260324120436.png",
+    "Pasted image 20260324120018.png",
+    "Pasted image 20260324115948.png",
+    "Pasted image 20260324115549.png",
+    "Pasted image 20260324114835.png",
+    "Pasted image 20260324110707.png",
+    "Class Diagrams Diagrams.md",
+    "cn380_Design_2026-03-23.md",
     "COMP 380 MOC.md",
-    "Midterm Practice Problems.md",
-    "Midterm Study Guide.md",
     "School Notes Spring 26 MOC.md",
+    "Pasted image 20260323203209.png",
+    "media/Midterm Study Guide.md",
+    "_Home MOC.md",
+    "COMP 256 Midterm Studyguide.md",
+    "LaTeX Reference.md",
+    "templates/MOC.md",
+    "References MOC.md",
+    "References Base.base",
+    "templates/Class Note.md",
     "Bases/School Notes Spring 26 Base.base",
     "Bases/MOC Base.base",
     "Programming MOC.md",
+    "Midterm Practice Problems.md",
     "MATH 262 MOC.md",
-    "_Home MOC.md",
     "COMP 222 MOC.md",
-    "Untitled.base",
-    "templates/Class Note.md",
     "Untitled.md",
     "Practice Problem 2.md",
     "test note 1.md",
@@ -266,26 +295,13 @@
     "templates/Untitled.md",
     "Invalid date.md",
     "Bases",
-    "templates/MOC.md",
     "templates",
-    "media/C380TestPractice1.png",
-    "media/Pasted image 20260321204054.png",
     "media",
     "School/380/Midterm/Untitled.base",
     "Untitled.canvas",
     "Excel 2026-03-21 22.19.13.univer.md",
     "School/380/Midterm",
     "School/380",
-    "School",
-    "media/Pasted image 20260321135306.png",
-    "style.css.md",
-    "2026-03-21.md",
-    "media/Pasted image 20260321135521.png",
-    "media/Pasted image 20260321135506.png",
-    "media/Pasted image 20260321135447.png",
-    "media/Pasted image 20260321135355.png",
-    "media/Pasted image 20260321135344.png",
-    "media/Pasted image 20260321135333.png",
-    "Welcome.md"
+    "School"
   ]
 }

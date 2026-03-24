@@ -10,6 +10,7 @@ aliases:
 # Computer Science
 [[COMP 380 MOC]]
 [[COMP 222 MOC]]
+[[COMP 256 MOC]]
 # Math
 [[MATH 262 MOC]]
 

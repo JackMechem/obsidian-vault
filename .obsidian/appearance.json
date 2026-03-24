@@ -1,8 +1,8 @@
 {
   "theme": "obsidian",
   "accentColor": "#3c76c8",
-  "cssTheme": "Atom",
-  "baseFontSize": 17,
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "inline-callout"

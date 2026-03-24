@@ -2,8 +2,6 @@
 tags:
   - moc
 ---
-
-
 > [!links]
 > [[_Home MOC]]
 
